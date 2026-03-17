@@ -28,10 +28,10 @@ User Assignment
 Technologies Used
 
 HTML5
-CSS3
-JavaScript (ES6)
-Firebase (Database / Authentication – ggf. anpassen)
-Git & GitHub (version control & collaboration)
+- CSS3
+- JavaScript (ES6)
+- Firebase (Database / Authentication – ggf. anpassen)
+- Git & GitHub (version control & collaboration)
 
 Thnaks to https://developerakademie.com/ :-)
 <img width="828" height="719" alt="image" src="https://github.com/user-attachments/assets/9e934ab7-4b09-43a8-ae92-9328c2a03c4f" />
